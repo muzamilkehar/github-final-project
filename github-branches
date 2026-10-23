@@ -1,0 +1,5 @@
+PS D:\chohans-food> git branch -a
+  bug-fix-typo
+* main
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/main
