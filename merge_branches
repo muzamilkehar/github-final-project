@@ -1,6 +1,10 @@
+git checkout main
+Switched to branch 'main'
+Your branch is ahead of 'origin/main' by 4 commits.
+  (use "git push" to publish your local commits)
 PS D:\chohans-food> git merge bug-fix-typo
-Updating 7015430..84c5f9c
+Updating 5be4578..a7cc7a9
 Fast-forward
- README.md | Bin 0 -> 32 bytes
- 1 file changed, 0 insertions(+), 0 deletions(-)
- create mode 100644 README.md
+ clean_file.txt | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+PS D:\chohans-food> 
