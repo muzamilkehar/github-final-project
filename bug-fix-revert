@@ -1,0 +1,695 @@
+PS D:\chohans-food> curl.exe -s https://api.github.com/repos/muzamilkehar/chohans-food/pulls
+
+[
+
+  {
+
+    "url": "https://api.github.com/repos/muzamilkehar/chohans-food/pulls/1",
+
+    "id": 4981818261,
+
+    "node_id": "PR_kwDOUAiHOM8AAAABKPCDlQ",
+
+    "html_url": "https://github.com/muzamilkehar/chohans-food/pull/1",
+
+    "diff_url": "https://github.com/muzamilkehar/chohans-food/pull/1.diff",
+
+    "patch_url": "https://github.com/muzamilkehar/chohans-food/pull/1.patch",
+
+    "issue_url": "https://api.github.com/repos/muzamilkehar/chohans-food/issues/1",
+
+    "number": 1,
+
+    "state": "open",
+
+    "locked": false,
+
+    "title": "Fix typo in clean file",
+
+    "user": {
+
+      "login": "muzamilkehar",
+
+      "id": 161892397,
+
+      "node_id": "U_kgDOCaZILQ",
+
+      "avatar_url": "https://avatars.githubusercontent.com/u/161892397?v=4",
+
+      "gravatar_id": "",
+
+      "url": "https://api.github.com/users/muzamilkehar",
+
+      "html_url": "https://github.com/muzamilkehar",
+
+      "followers_url": "https://api.github.com/users/muzamilkehar/followers",
+
+      "following_url": "https://api.github.com/users/muzamilkehar/following{/other_user}",
+
+      "gists_url": "https://api.github.com/users/muzamilkehar/gists{/gist_id}",
+
+      "starred_url": "https://api.github.com/users/muzamilkehar/starred{/owner}{/repo}",
+
+      "subscriptions_url": "https://api.github.com/users/muzamilkehar/subscriptions",
+
+      "organizations_url": "https://api.github.com/users/muzamilkehar/orgs",
+
+      "repos_url": "https://api.github.com/users/muzamilkehar/repos",
+
+      "events_url": "https://api.github.com/users/muzamilkehar/events{/privacy}",
+
+      "received_events_url": "https://api.github.com/users/muzamilkehar/received_events",
+
+      "type": "User",
+
+      "user_view_type": "public",
+
+      "site_admin": false
+
+    },
+
+    "body": null,
+
+    "created_at": "2026-10-23T11:09:33Z",
+
+    "updated_at": "2026-10-23T11:09:33Z",
+
+    "closed_at": null,
+
+    "merged_at": null,
+
+    "merge_commit_sha": "8690b13a1eadd1c4b4f0201622a9a27f17c1be55",
+
+    "assignees": [
+
+    ],
+
+    "requested_reviewers": [
+
+    ],
+
+    "requested_teams": [
+
+    ],
+
+    "labels": [
+
+    ],
+
+    "milestone": null,
+
+    "draft": false,
+
+    "commits_url": "https://api.github.com/repos/muzamilkehar/chohans-food/pulls/1/commits",
+
+    "review_comments_url": "https://api.github.com/repos/muzamilkehar/chohans-food/pulls/1/comments",
+
+    "review_comment_url": "https://api.github.com/repos/muzamilkehar/chohans-food/pulls/comments{/number}",
+
+    "comments_url": "https://api.github.com/repos/muzamilkehar/chohans-food/issues/1/comments",
+
+    "statuses_url": "https://api.github.com/repos/muzamilkehar/chohans-food/statuses/84c5f9c6965dcec8c248cbd7ed6829351443b4f0",
+
+    "head": {
+
+      "label": "muzamilkehar:bug-fix-typo",
+
+      "ref": "bug-fix-typo",
+
+      "sha": "84c5f9c6965dcec8c248cbd7ed6829351443b4f0",
+
+      "user": {
+
+        "login": "muzamilkehar",
+
+        "id": 161892397,
+
+        "node_id": "U_kgDOCaZILQ",
+
+        "avatar_url": "https://avatars.githubusercontent.com/u/161892397?v=4",
+
+        "gravatar_id": "",
+
+        "url": "https://api.github.com/users/muzamilkehar",
+
+        "html_url": "https://github.com/muzamilkehar",
+
+        "followers_url": "https://api.github.com/users/muzamilkehar/followers",
+
+        "following_url": "https://api.github.com/users/muzamilkehar/following{/other_user}",
+
+        "gists_url": "https://api.github.com/users/muzamilkehar/gists{/gist_id}",
+
+        "starred_url": "https://api.github.com/users/muzamilkehar/starred{/owner}{/repo}",
+
+        "subscriptions_url": "https://api.github.com/users/muzamilkehar/subscriptions",
+
+        "organizations_url": "https://api.github.com/users/muzamilkehar/orgs",
+
+        "repos_url": "https://api.github.com/users/muzamilkehar/repos",
+
+        "events_url": "https://api.github.com/users/muzamilkehar/events{/privacy}",
+
+        "received_events_url": "https://api.github.com/users/muzamilkehar/received_events",
+
+        "type": "User",
+
+        "user_view_type": "public",
+
+        "site_admin": false
+
+      },
+
+      "repo": {
+
+        "id": 1342736184,
+
+        "node_id": "R_kgDOUAiHOA",
+
+        "name": "chohans-food",
+
+        "full_name": "muzamilkehar/chohans-food",
+
+        "private": false,
+
+        "owner": {
+
+          "login": "muzamilkehar",
+
+          "id": 161892397,
+
+          "node_id": "U_kgDOCaZILQ",
+
+          "avatar_url": "https://avatars.githubusercontent.com/u/161892397?v=4",
+
+          "gravatar_id": "",
+
+          "url": "https://api.github.com/users/muzamilkehar",
+
+          "html_url": "https://github.com/muzamilkehar",
+
+          "followers_url": "https://api.github.com/users/muzamilkehar/followers",
+
+          "following_url": "https://api.github.com/users/muzamilkehar/following{/other_user}",
+
+          "gists_url": "https://api.github.com/users/muzamilkehar/gists{/gist_id}",
+
+          "starred_url": "https://api.github.com/users/muzamilkehar/starred{/owner}{/repo}",
+
+          "subscriptions_url": "https://api.github.com/users/muzamilkehar/subscriptions",
+
+          "organizations_url": "https://api.github.com/users/muzamilkehar/orgs",
+
+          "repos_url": "https://api.github.com/users/muzamilkehar/repos",
+
+          "events_url": "https://api.github.com/users/muzamilkehar/events{/privacy}",
+
+          "received_events_url": "https://api.github.com/users/muzamilkehar/received_events",
+
+          "type": "User",
+
+          "user_view_type": "public",
+
+          "site_admin": false
+
+        },
+
+        "html_url": "https://github.com/muzamilkehar/chohans-food",
+
+        "description": "Chohan's Fast Food Website",
+
+        "fork": false,
+
+        "url": "https://api.github.com/repos/muzamilkehar/chohans-food",
+
+        "forks_url": "https://api.github.com/repos/muzamilkehar/chohans-food/forks",
+
+        "keys_url": "https://api.github.com/repos/muzamilkehar/chohans-food/keys{/key_id}",
+
+        "collaborators_url": "https://api.github.com/repos/muzamilkehar/chohans-food/collaborators{/collaborator}",
+
+        "teams_url": "https://api.github.com/repos/muzamilkehar/chohans-food/teams",
+
+        "hooks_url": "https://api.github.com/repos/muzamilkehar/chohans-food/hooks",
+
+        "issue_events_url": "https://api.github.com/repos/muzamilkehar/chohans-food/issues/events{/number}",
+
+        "events_url": "https://api.github.com/repos/muzamilkehar/chohans-food/events",
+
+        "assignees_url": "https://api.github.com/repos/muzamilkehar/chohans-food/assignees{/user}",
+
+        "branches_url": "https://api.github.com/repos/muzamilkehar/chohans-food/branches{/branch}",
+
+        "tags_url": "https://api.github.com/repos/muzamilkehar/chohans-food/tags",
+
+        "blobs_url": "https://api.github.com/repos/muzamilkehar/chohans-food/git/blobs{/sha}",
+
+        "git_tags_url": "https://api.github.com/repos/muzamilkehar/chohans-food/git/tags{/sha}",
+
+        "git_refs_url": "https://api.github.com/repos/muzamilkehar/chohans-food/git/refs{/sha}",
+
+        "trees_url": "https://api.github.com/repos/muzamilkehar/chohans-food/git/trees{/sha}",
+
+        "statuses_url": "https://api.github.com/repos/muzamilkehar/chohans-food/statuses/{sha}",
+
+        "languages_url": "https://api.github.com/repos/muzamilkehar/chohans-food/languages",
+
+        "stargazers_url": "https://api.github.com/repos/muzamilkehar/chohans-food/stargazers",
+
+        "contributors_url": "https://api.github.com/repos/muzamilkehar/chohans-food/contributors",
+
+        "subscribers_url": "https://api.github.com/repos/muzamilkehar/chohans-food/subscribers",
+
+        "subscription_url": "https://api.github.com/repos/muzamilkehar/chohans-food/subscription",
+
+        "commits_url": "https://api.github.com/repos/muzamilkehar/chohans-food/commits{/sha}",
+
+        "git_commits_url": "https://api.github.com/repos/muzamilkehar/chohans-food/git/commits{/sha}",
+
+        "comments_url": "https://api.github.com/repos/muzamilkehar/chohans-food/comments{/number}",
+
+        "issue_comment_url": "https://api.github.com/repos/muzamilkehar/chohans-food/issues/comments{/number}",
+
+        "contents_url": "https://api.github.com/repos/muzamilkehar/chohans-food/contents/{+path}",
+
+        "compare_url": "https://api.github.com/repos/muzamilkehar/chohans-food/compare/{base}...{head}",
+
+        "merges_url": "https://api.github.com/repos/muzamilkehar/chohans-food/merges",
+
+        "archive_url": "https://api.github.com/repos/muzamilkehar/chohans-food/{archive_format}{/ref}",
+
+        "downloads_url": "https://api.github.com/repos/muzamilkehar/chohans-food/downloads",
+
+        "issues_url": "https://api.github.com/repos/muzamilkehar/chohans-food/issues{/number}",
+
+        "pulls_url": "https://api.github.com/repos/muzamilkehar/chohans-food/pulls{/number}",
+
+        "milestones_url": "https://api.github.com/repos/muzamilkehar/chohans-food/milestones{/number}",
+
+        "notifications_url": "https://api.github.com/repos/muzamilkehar/chohans-food/notifications{?since,all,participating}",
+
+        "labels_url": "https://api.github.com/repos/muzamilkehar/chohans-food/labels{/name}",
+
+        "releases_url": "https://api.github.com/repos/muzamilkehar/chohans-food/releases{/id}",
+
+        "deployments_url": "https://api.github.com/repos/muzamilkehar/chohans-food/deployments",
+
+        "created_at": "2026-08-22T11:16:22Z",
+
+        "updated_at": "2026-10-23T11:12:53Z",
+
+        "pushed_at": "2026-10-23T10:19:55Z",
+
+        "git_url": "git://github.com/muzamilkehar/chohans-food.git",
+
+        "ssh_url": "git@github.com:muzamilkehar/chohans-food.git",
+
+        "clone_url": "https://github.com/muzamilkehar/chohans-food.git",
+
+        "svn_url": "https://github.com/muzamilkehar/chohans-food",
+
+        "homepage": null,
+
+        "size": 269,
+
+        "stargazers_count": 0,
+
+        "watchers_count": 0,
+
+        "language": "TypeScript",
+
+        "has_issues": true,
+
+        "has_projects": true,
+
+        "has_downloads": false,
+
+        "has_wiki": false,
+
+        "has_pages": false,
+
+        "has_discussions": false,
+
+        "forks_count": 0,
+
+        "mirror_url": null,
+
+        "archived": false,
+
+        "disabled": false,
+
+        "open_issues_count": 1,
+
+        "license": null,
+
+        "allow_forking": true,
+
+        "is_template": false,
+
+        "web_commit_signoff_required": false,
+
+        "has_pull_requests": true,
+
+        "pull_request_creation_policy": "all",
+
+        "topics": [
+
+        ],
+
+        "visibility": "public",
+
+        "forks": 0,
+
+        "open_issues": 1,
+
+        "watchers": 0,
+
+        "default_branch": "main"
+
+      }
+
+    },
+
+    "base": {
+
+      "label": "muzamilkehar:main",
+
+      "ref": "main",
+
+      "sha": "7015430a5d1b8619246b9b431b014a35424e6640",
+
+      "user": {
+
+        "login": "muzamilkehar",
+
+        "id": 161892397,
+
+        "node_id": "U_kgDOCaZILQ",
+
+        "avatar_url": "https://avatars.githubusercontent.com/u/161892397?v=4",
+
+        "gravatar_id": "",
+
+        "url": "https://api.github.com/users/muzamilkehar",
+
+        "html_url": "https://github.com/muzamilkehar",
+
+        "followers_url": "https://api.github.com/users/muzamilkehar/followers",
+
+        "following_url": "https://api.github.com/users/muzamilkehar/following{/other_user}",
+
+        "gists_url": "https://api.github.com/users/muzamilkehar/gists{/gist_id}",
+
+        "starred_url": "https://api.github.com/users/muzamilkehar/starred{/owner}{/repo}",
+
+        "subscriptions_url": "https://api.github.com/users/muzamilkehar/subscriptions",
+
+        "organizations_url": "https://api.github.com/users/muzamilkehar/orgs",
+
+        "repos_url": "https://api.github.com/users/muzamilkehar/repos",
+
+        "events_url": "https://api.github.com/users/muzamilkehar/events{/privacy}",
+
+        "received_events_url": "https://api.github.com/users/muzamilkehar/received_events",
+
+        "type": "User",
+
+        "user_view_type": "public",
+
+        "site_admin": false
+
+      },
+
+      "repo": {
+
+        "id": 1342736184,
+
+        "node_id": "R_kgDOUAiHOA",
+
+        "name": "chohans-food",
+
+        "full_name": "muzamilkehar/chohans-food",
+
+        "private": false,
+
+        "owner": {
+
+          "login": "muzamilkehar",
+
+          "id": 161892397,
+
+          "node_id": "U_kgDOCaZILQ",
+
+          "avatar_url": "https://avatars.githubusercontent.com/u/161892397?v=4",
+
+          "gravatar_id": "",
+
+          "url": "https://api.github.com/users/muzamilkehar",
+
+          "html_url": "https://github.com/muzamilkehar",
+
+          "followers_url": "https://api.github.com/users/muzamilkehar/followers",
+
+          "following_url": "https://api.github.com/users/muzamilkehar/following{/other_user}",
+
+          "gists_url": "https://api.github.com/users/muzamilkehar/gists{/gist_id}",
+
+          "starred_url": "https://api.github.com/users/muzamilkehar/starred{/owner}{/repo}",
+
+          "subscriptions_url": "https://api.github.com/users/muzamilkehar/subscriptions",
+
+          "organizations_url": "https://api.github.com/users/muzamilkehar/orgs",
+
+          "repos_url": "https://api.github.com/users/muzamilkehar/repos",
+
+          "events_url": "https://api.github.com/users/muzamilkehar/events{/privacy}",
+
+          "received_events_url": "https://api.github.com/users/muzamilkehar/received_events",
+
+          "type": "User",
+
+          "user_view_type": "public",
+
+          "site_admin": false
+
+        },
+
+        "html_url": "https://github.com/muzamilkehar/chohans-food",
+
+        "description": "Chohan's Fast Food Website",
+
+        "fork": false,
+
+        "url": "https://api.github.com/repos/muzamilkehar/chohans-food",
+
+        "forks_url": "https://api.github.com/repos/muzamilkehar/chohans-food/forks",
+
+        "keys_url": "https://api.github.com/repos/muzamilkehar/chohans-food/keys{/key_id}",
+
+        "collaborators_url": "https://api.github.com/repos/muzamilkehar/chohans-food/collaborators{/collaborator}",
+
+        "teams_url": "https://api.github.com/repos/muzamilkehar/chohans-food/teams",
+
+        "hooks_url": "https://api.github.com/repos/muzamilkehar/chohans-food/hooks",
+
+        "issue_events_url": "https://api.github.com/repos/muzamilkehar/chohans-food/issues/events{/number}",
+
+        "events_url": "https://api.github.com/repos/muzamilkehar/chohans-food/events",
+
+        "assignees_url": "https://api.github.com/repos/muzamilkehar/chohans-food/assignees{/user}",
+
+        "branches_url": "https://api.github.com/repos/muzamilkehar/chohans-food/branches{/branch}",
+
+        "tags_url": "https://api.github.com/repos/muzamilkehar/chohans-food/tags",
+
+        "blobs_url": "https://api.github.com/repos/muzamilkehar/chohans-food/git/blobs{/sha}",
+
+        "git_tags_url": "https://api.github.com/repos/muzamilkehar/chohans-food/git/tags{/sha}",
+
+        "git_refs_url": "https://api.github.com/repos/muzamilkehar/chohans-food/git/refs{/sha}",
+
+        "trees_url": "https://api.github.com/repos/muzamilkehar/chohans-food/git/trees{/sha}",
+
+        "statuses_url": "https://api.github.com/repos/muzamilkehar/chohans-food/statuses/{sha}",
+
+        "languages_url": "https://api.github.com/repos/muzamilkehar/chohans-food/languages",
+
+        "stargazers_url": "https://api.github.com/repos/muzamilkehar/chohans-food/stargazers",
+
+        "contributors_url": "https://api.github.com/repos/muzamilkehar/chohans-food/contributors",
+
+        "subscribers_url": "https://api.github.com/repos/muzamilkehar/chohans-food/subscribers",
+
+        "subscription_url": "https://api.github.com/repos/muzamilkehar/chohans-food/subscription",
+
+        "commits_url": "https://api.github.com/repos/muzamilkehar/chohans-food/commits{/sha}",
+
+        "git_commits_url": "https://api.github.com/repos/muzamilkehar/chohans-food/git/commits{/sha}",
+
+        "comments_url": "https://api.github.com/repos/muzamilkehar/chohans-food/comments{/number}",
+
+        "issue_comment_url": "https://api.github.com/repos/muzamilkehar/chohans-food/issues/comments{/number}",
+
+        "contents_url": "https://api.github.com/repos/muzamilkehar/chohans-food/contents/{+path}",
+
+        "compare_url": "https://api.github.com/repos/muzamilkehar/chohans-food/compare/{base}...{head}",
+
+        "merges_url": "https://api.github.com/repos/muzamilkehar/chohans-food/merges",
+
+        "archive_url": "https://api.github.com/repos/muzamilkehar/chohans-food/{archive_format}{/ref}",
+
+        "downloads_url": "https://api.github.com/repos/muzamilkehar/chohans-food/downloads",
+
+        "issues_url": "https://api.github.com/repos/muzamilkehar/chohans-food/issues{/number}",
+
+        "pulls_url": "https://api.github.com/repos/muzamilkehar/chohans-food/pulls{/number}",
+
+        "milestones_url": "https://api.github.com/repos/muzamilkehar/chohans-food/milestones{/number}",
+
+        "notifications_url": "https://api.github.com/repos/muzamilkehar/chohans-food/notifications{?since,all,participating}",
+
+        "labels_url": "https://api.github.com/repos/muzamilkehar/chohans-food/labels{/name}",
+
+        "releases_url": "https://api.github.com/repos/muzamilkehar/chohans-food/releases{/id}",
+
+        "deployments_url": "https://api.github.com/repos/muzamilkehar/chohans-food/deployments",
+
+        "created_at": "2026-08-22T11:16:22Z",
+
+        "updated_at": "2026-10-23T11:12:53Z",
+
+        "pushed_at": "2026-10-23T10:19:55Z",
+
+        "git_url": "git://github.com/muzamilkehar/chohans-food.git",
+
+        "ssh_url": "git@github.com:muzamilkehar/chohans-food.git",
+
+        "clone_url": "https://github.com/muzamilkehar/chohans-food.git",
+
+        "svn_url": "https://github.com/muzamilkehar/chohans-food",
+
+        "homepage": null,
+
+        "size": 269,
+
+        "stargazers_count": 0,
+
+        "watchers_count": 0,
+
+        "language": "TypeScript",
+
+        "has_issues": true,
+
+        "has_projects": true,
+
+        "has_downloads": false,
+
+        "has_wiki": false,
+
+        "has_pages": false,
+
+        "has_discussions": false,
+
+        "forks_count": 0,
+
+        "mirror_url": null,
+
+        "archived": false,
+
+        "disabled": false,
+
+        "open_issues_count": 1,
+
+        "license": null,
+
+        "allow_forking": true,
+
+        "is_template": false,
+
+        "web_commit_signoff_required": false,
+
+        "has_pull_requests": true,
+
+        "pull_request_creation_policy": "all",
+
+        "topics": [
+
+        ],
+
+        "visibility": "public",
+
+        "forks": 0,
+
+        "open_issues": 1,
+
+        "watchers": 0,
+
+        "default_branch": "main"
+
+      }
+
+    },
+
+    "_links": {
+
+      "self": {
+
+        "href": "https://api.github.com/repos/muzamilkehar/chohans-food/pulls/1"
+
+      },
+
+      "html": {
+
+        "href": "https://github.com/muzamilkehar/chohans-food/pull/1"
+
+      },
+
+      "issue": {
+
+        "href": "https://api.github.com/repos/muzamilkehar/chohans-food/issues/1"
+
+      },
+
+      "comments": {
+
+        "href": "https://api.github.com/repos/muzamilkehar/chohans-food/issues/1/comments"
+
+      },
+
+      "review_comments": {
+
+        "href": "https://api.github.com/repos/muzamilkehar/chohans-food/pulls/1/comments"
+
+      },
+
+      "review_comment": {
+
+        "href": "https://api.github.com/repos/muzamilkehar/chohans-food/pulls/comments{/number}"
+
+      },
+
+      "commits": {
+
+        "href": "https://api.github.com/repos/muzamilkehar/chohans-food/pulls/1/commits"
+
+      },
+
+      "statuses": {
+
+        "href": "https://api.github.com/repos/muzamilkehar/chohans-food/statuses/84c5f9c6965dcec8c248cbd7ed6829351443b4f0"
+
+      }
+
+    },
+
+    "author_association": "OWNER",
+
+    "auto_merge": null,
+
+    "assignee": null,
+
+    "active_lock_reason": null
+
+  }
+
+]
