@@ -1,0 +1,6 @@
+PS D:\chohans-food> git merge bug-fix-typo
+Updating 7015430..84c5f9c
+Fast-forward
+ README.md | Bin 0 -> 32 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 README.md
